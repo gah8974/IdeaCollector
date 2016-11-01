@@ -88,6 +88,11 @@
   z-index: 9999;
 }
 
+section{
+  margin:0;
+}
+
+
 #banner input, #banner select, #banner textarea {
       color: #ffffff;
           }
